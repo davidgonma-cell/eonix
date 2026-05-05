@@ -1,0 +1,39 @@
+{
+  "name": "EONIX — Biohacking & Longevidad",
+  "short_name": "EONIX",
+  "description": "Biohacking para vivir mejor, por más tiempo. Basado en la ciencia de las Zonas Azules.",
+  "lang": "es",
+  "start_url": "/eonix/",
+  "scope": "/eonix/",
+  "id": "/eonix/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF7EF",
+  "theme_color": "#7A8A5C",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
